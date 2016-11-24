@@ -2,6 +2,6 @@ package chafiqSRL;
 
 public class App {
     public static String getHello() {
-        return "Hello";
+        return "Hello diff 1";
     }
 }
